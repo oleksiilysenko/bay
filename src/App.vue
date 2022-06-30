@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" public="./Ship.png" />
+  <img alt="Ship" src="public/Ship.png" />
   <HelloWorld msg="Welcome to Alex test page" />
 </template>
 
