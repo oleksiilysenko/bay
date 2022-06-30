@@ -2,8 +2,8 @@
   <h1>{{ msg }}</h1>
 
   <p>
-    <a href="https://vitejs.dev/guide/features.html" target="_blank">
-      Vite Documentation
+    <a href="https://e.mail.ru" target="_blank">
+      Mail Box
     </a>
     |
     <a href="https://google.com/" target="_blank">Google Search</a>
