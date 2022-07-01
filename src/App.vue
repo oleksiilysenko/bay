@@ -1,6 +1,6 @@
 <template>
   <img alt="Ship" src=".assests/logo.png" />
-  <HelloWorld msg="Welcome to Alex test page" />
+  <HelloWorld msg="Welcome to Alex test " />
 </template>
 
 <script setup>
