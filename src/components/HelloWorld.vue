@@ -5,7 +5,7 @@
     <a href="https://e.mail.ru" target="_blank">
       Mail Box
     </a>
-    |
+    |||||
     <a href="https://google.com/" target="_blank">Google Search</a>
   </p>
 
