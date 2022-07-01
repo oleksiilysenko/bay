@@ -1,5 +1,5 @@
 <template>
-  <img alt="Ship" src="./favicon.ico" />
+  <img alt="Ship" src=".assests/logo.png" />
   <HelloWorld msg="Welcome to Alex test page" />
 </template>
 
