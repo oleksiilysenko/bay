@@ -1,5 +1,5 @@
 <template>
-  <img alt="Ship" src="bay/public/Ship.png" />
+  <img alt="Ship" src="./favicon.ico" />
   <HelloWorld msg="Welcome to Alex test page" />
 </template>
 
