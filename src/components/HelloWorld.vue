@@ -11,8 +11,8 @@
 
   <button type="button" @click="state.count++">count is: {{ state.count }}</button>
   <p>
-     This is a temmplate for pages
-    <code>components/HelloWorld.vue</code> .
+     <h1>This is a temmplate for pages<h1>
+    
   </p>
 </template>
 
