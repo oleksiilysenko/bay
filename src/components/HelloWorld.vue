@@ -11,7 +11,7 @@
 
   <button type="button" @click="state.count++">count is: {{ state.count }}</button>
   <p>
-     <h1>This is a temmplate for pages<h1>
+     <h1>This is a temmplate for pages</h1>
     
   </p>
 </template>
