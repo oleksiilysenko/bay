@@ -1,6 +1,6 @@
 <template>
-  <img alt="Ship" src=".assests/logo.png" />
-  <HelloWorld msg="Welcome to Alex page " />
+  <img alt="Vue logo" src="./assets/logo.png" />
+  <HelloWorld msg="Hello Vue 3 + Vite" />
 </template>
 
 <script setup>

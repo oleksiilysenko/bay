@@ -2,17 +2,17 @@
   <h1>{{ msg }}</h1>
 
   <p>
-    <a href="https://e.mail.ru" target="_blank">
-      Mail Box
+    <a href="https://vitejs.dev/guide/features.html" target="_blank">
+      Vite Documentation
     </a>
-    |||||
-    <a href="https://google.com/" target="_blank">Google Search</a>
+    |
+    <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Documentation</a>
   </p>
 
   <button type="button" @click="state.count++">count is: {{ state.count }}</button>
   <p>
-     <h1>This is a temmplate for pages</h1>
-    
+    Edit
+    <code>components/HelloWorld.vue</code> to test hot module replacement.
   </p>
 </template>
 
