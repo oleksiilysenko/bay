@@ -1,5 +1,5 @@
 <template>
-  <img alt="Ship" src="./assets/ship.png" />
+  <img alt="Ship" src="./assets/Ship.png" />
   <HelloWorld msg="Welcome to bay." />
 </template>
 
