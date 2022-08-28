@@ -8,6 +8,13 @@
   </head>
   <body>
     <div id="app"></div>
-    <script type="module" src="/src/main.js"></script>
+    <template>
+  <img alt="Ship" src="./assets/Ship.png" />
+  <HelloWorld msg="Welcome to bay." />
+</template>
+
+<script setup>
+import HelloWorld from './components/HelloWorld.vue'
+</script>
   </body>
 </html>
