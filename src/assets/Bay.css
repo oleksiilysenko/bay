@@ -1,0 +1,12 @@
+   <link href="src/assets/Bay.css" rel="stylesheet">
+
+h1 {color: blue; text-align: center; }
+div {background-color: grey; width:150px;  height:50px; padding:10px; margin:5px; font-family:arial;font-size:25px; border:3px solid black ;}
+th {border: 1px solid black}
+#foo {background-color: blue; width:150px;  }
+.foo {background-color: red; width:150px;  }
+button {width:200px; height: 50px; }
+button:hover{background-color: grey}
+@media (min-width:900px ){ body{background-color: red;} }
+#flex {display: flex; flex-wrap: wrap;}
+#flex>div {margin:200px:}
